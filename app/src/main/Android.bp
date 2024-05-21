@@ -38,14 +38,14 @@ android_app {
         "androidx.lifecycle_lifecycle-extensions",
         "com.google.android.material_material",
     ],
-    required: ["privapp_whitelist_org.derpfest.parallelspace.xml"],
+    required: ["privapp_whitelist_com.euclid.parallelspace.xml"],
 }
 
 prebuilt_etc {
-    name: "privapp_whitelist_org.derpfest.parallelspace.xml",
+    name: "privapp_whitelist_com.euclid.parallelspace.xml",
 
     system_ext_specific: true,
-    src: "privapp_whitelist_org.derpfest.parallelspace.xml",
+    src: "privapp_whitelist_com.euclid.parallelspace.xml",
     sub_dir: "permissions",
 
 }

@@ -1,4 +1,4 @@
-package org.derpfest.parallelspace;
+package com.euclid.parallelspace;
 
 import android.app.Application;
 

@@ -1,4 +1,4 @@
-package org.derpfest.parallelspace;
+package com.euclid.parallelspace;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,7 +12,7 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreferenceCompat;
 
-import com.android.internal.derp.app.ParallelSpaceManager;
+import com.android.internal.euclid.app.ParallelSpaceManager;
 
 import java.util.List;
 

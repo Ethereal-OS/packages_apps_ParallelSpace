@@ -1,4 +1,4 @@
-package com.euclid.parallelspace;
+package com.ethereal.parallelspace;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,7 +12,7 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreferenceCompat;
 
-import com.android.internal.euclid.app.ParallelSpaceManager;
+import com.android.internal.ethereal.app.ParallelSpaceManager;
 
 import java.util.List;
 

@@ -1,10 +1,10 @@
-package com.euclid.parallelspace;
+package com.ethereal.parallelspace;
 
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.graphics.drawable.Drawable;
 
-import com.android.internal.euclid.app.ParallelSpaceManager;
+import com.android.internal.ethereal.app.ParallelSpaceManager;
 
 public class SpaceAppInfo {
 

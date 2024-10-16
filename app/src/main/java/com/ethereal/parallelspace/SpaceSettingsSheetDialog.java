@@ -1,4 +1,4 @@
-package com.euclid.parallelspace;
+package com.ethereal.parallelspace;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -20,7 +20,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.android.internal.euclid.app.ParallelSpaceManager;
+import com.android.internal.ethereal.app.ParallelSpaceManager;
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.euclid.parallelspace;
+package com.ethereal.parallelspace;
 
 import android.os.Bundle;
 import android.text.InputType;
@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.internal.euclid.app.ParallelSpaceManager;
+import com.android.internal.ethereal.app.ParallelSpaceManager;
 
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity;
 

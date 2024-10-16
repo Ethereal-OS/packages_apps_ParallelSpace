@@ -1,4 +1,4 @@
-package com.euclid.parallelspace;
+package com.ethereal.parallelspace;
 
 import android.app.Application;
 

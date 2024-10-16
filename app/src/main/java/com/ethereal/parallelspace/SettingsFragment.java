@@ -1,4 +1,4 @@
-package com.euclid.parallelspace;
+package com.ethereal.parallelspace;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -15,7 +15,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceFragmentCompat;
 
-import com.android.internal.euclid.app.ParallelSpaceManager;
+import com.android.internal.ethereal.app.ParallelSpaceManager;
 
 import java.util.List;
 import java.util.Objects;

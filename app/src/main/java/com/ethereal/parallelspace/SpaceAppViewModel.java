@@ -1,4 +1,4 @@
-package com.euclid.parallelspace;
+package com.ethereal.parallelspace;
 
 import android.app.Application;
 import android.content.Context;
@@ -10,7 +10,7 @@ import android.content.pm.ResolveInfo;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.android.internal.euclid.app.ParallelSpaceManager;
+import com.android.internal.ethereal.app.ParallelSpaceManager;
 
 import java.util.ArrayList;
 import java.util.List;
